@@ -1,0 +1,12 @@
+Once upon a time there was a good programmer who used git. He committed
+regularly and wrote useful messages.
+
+One day, he wrote buggy code! But thankfully he was able to reset to an
+earlier commit. Instead of having to rewrite his entire project, he was
+able to just restart the buggy feature.
+
+In the end, the good programmer was able to store his elegant code in an
+arctic code vault for all of eternity, all thanks to git and the magical
+website github.
+
+(Way too bland, but who cares!)
