@@ -5,8 +5,9 @@
 
 from subprocess import check_output
 
-print("Testing correctness of Hello_World...", end = ' ')
 num_tests_passed = 0
+
+print("Testing correctness of Hello_World...", end = ' ')
 
 if (check_output(['./Hello_World']) == b'Hello World!\n'):
     num_tests_passed += 1
